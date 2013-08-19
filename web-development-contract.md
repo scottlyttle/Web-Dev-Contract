@@ -1,4 +1,4 @@
-<p>Between <mark>Sender Name</mark> at <mark>Sender Company</mark> and <mark>Company Name</mark> as represented by <mark>Client Name</mark></p>
+<p>Between [SENDER NAME] at [SENDER COMPANY] and [COMPANY NAME] as represented by [CLIENT NAME]</p>
 
 <h2>Summary</h2>
 
@@ -6,7 +6,7 @@
 
 <h4>In short</h4>
 
-<p>You, <mark>Client Name</mark> representing <mark>Company Name</mark>, are hiring <mark>Sender Company</mark> to perform web development work for the estimated total price of <mark>AUD</mark>$<mark>Project Value</mark> up to a maximum of <mark>Maximum Project Hours</mark> as outlined in our previous correspondence. The agreed payment plan is at the end of this document and more detail on the services is provided is below.</p>
+<p>You, [CLIENT NAME] representing [CLIENT COMPANY], are hiring [SENDER COMPANY] to perform web development work for the estimated total price of [$ PROJECT VALUE] up to a maximum of [MAX PROJECT HOURS] as outlined in our previous correspondence. The agreed payment plan is at the end of this document and more detail on the services is provided is below.</p>
 
 <h4>What do both parties agree to do?</h4>
 
@@ -18,7 +18,7 @@
 
 <h2>Details of the Works</h2>
 
-<p>I will <mark>Detailed Service Overview</mark>. This contract includes one main development cycle plus the opportunity for you to make up to two rounds of 10 revision points. If you&#8217;re not happy with the website at this stage, you agree to pay me in full for all of the work that I have produced until that point and you may either cancel this contract or continue to commission me to make further design revisions at my standard hourly rate of <mark>AUD</mark>$<mark>Standard Hourly Rate</mark> (exc GST). </p>
+<p>I will [DETAILED SERVICES OVERVIEW]. This contract includes one main development cycle plus the opportunity for you to make up to two rounds of 10 revision points. If you&#8217;re not happy with the website at this stage, you agree to pay me in full for all of the work that I have produced until that point and you may either cancel this contract or continue to commission me to make further design revisions at my standard hourly rate of [$ HOURLY RATE]. </p>
 
 <h4>Text content and photography</h4>
 
@@ -94,8 +94,8 @@
 <p>I am sure you understand how important it is as a small business that you pay the invoices that I send you promptly. As I&#8217;m also sure you&#8217;ll want to stay friends, you agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
 
 <ul>
-<li><mark>Initial Percentage</mark>% of total estimated maximum fee payable prior to work commencing: <mark>AUD</mark>$<mark>Initial Payment Due</mark></li>
-<li>Remainder of fee payable prior to handover of the completed files and/or website launch (whichever comes first): <mark>AUD</mark>$<mark>Remaining Payment Due</mark></li>
+<li>[% INITIAL PERCENTAGE] of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
+<li>Remainder of fee payable prior to handover of the completed files and/or website launch (whichever comes first): [$ REMAINING PAYMENT DUE]</li>
 <li>Should the website development cost come in below what was initially quoted, the difference will be deducted from the final invoice.</li>
 </ul>
 
