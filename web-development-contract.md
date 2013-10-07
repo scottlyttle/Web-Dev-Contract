@@ -6,7 +6,7 @@
 
 <h4>In short</h4>
 
-<p>You, [CLIENT NAME] representing [CLIENT COMPANY], are hiring [SENDER COMPANY] to perform web development work for the estimated total price of [$ PROJECT VALUE] up to a maximum of [MAX PROJECT HOURS] as outlined in our previous correspondence. The agreed payment plan is at the end of this document and more detail on the services is provided is below.</p>
+<p>You, [CLIENT NAME] representing [CLIENT COMPANY], are hiring [SENDER COMPANY] to perform web development work for the estimated total price of [$ PROJECT VALUE] up to a maximum of [MAX PROJECT HOURS] as outlined in our previous correspondence. The agreed payment plan is at the end of this document and more detail on the services is provided below.</p>
 
 <h4>What do both parties agree to do?</h4>
 
@@ -24,7 +24,7 @@
 
 <p>I am not responsible for writing or inputting any text copy unless I specified it in the original estimate. I&#8217;ll be happy to help though where I can.</p>
 
-<p>If needed, you will supply me photographs in the appropriate digital format for use on the website. I can suggest vendors of stock photography if you choose to buy stock photographs.</p>
+<p>If needed, you will supply me photographs in the appropriate digital format for use on the website. I can suggest vendors of stock photography if you cannot supply your own.</p>
 
 <h4>Changes and revisions</h4>
 
@@ -81,13 +81,11 @@
 <ul>
 <li>You own the graphics and other visual elements that I create for you for this project. I will give you a copy of all files at your request and you should store them safely as I am only required to keep them or provide any native source files that I used in making them for a period of one calendar month (up to 31 days) from the launch of the website.</li>
 <li>You also own text content, photographs and other data you provided, unless someone else owns them.</li>
-<li>I own any customised HTML markup, CSS, JS, PHP and other code and I license it to you for use on only this project. Should you need to re-use it in the future, we can discuss this.</li>
+<li>I own any customised HTML, CSS, JS, PHP and other code and I license it to you for use on only this project. Should you need to re-use it in the future, we can discuss this.</li>
 <li>It is possible that I will use plugins and code from external sources (jQuery for example). In this case, the ownership of that code will be based on the license it is provided with.</li>
 </ul>
 
 <p>I love to show off my work and share what I have learned with other people, so I would like the opportunity to display and link to your completed project as part of my portfolio and to write about the project on websites, in magazine articles and in books.</p>
-
-<p>I also reserve the right to share on-going snippets of the work on Dribbble. I promise that these snippets will not give away any commercially sensitive or confidential details about the project. If you would prefer I did not share these ongoing snippets, that perfectly ok, but you will need to advise me of this in writing (i.e an email) prior to work commencing.</p>
 
 <h2>Payments</h2>
 
